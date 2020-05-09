@@ -1,0 +1,4 @@
+Finished by adding a Header component
+There is also an App container
+- renders Header
+- also imports logo and sends it into the Header component
